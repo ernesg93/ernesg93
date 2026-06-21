@@ -1,65 +1,12 @@
-<!--
-  GITHUB PROFILE README — TEMPLATE
-  Based on EduardoProfe666's profile (https://github.com/EduardoProfe666)
-
-  See the checklist above to get started. Replace all USERNAME tokens with your GitHub username,
-  or open docs/CUSTOMIZE.en.md / docs/CUSTOMIZE.md for full guides.
--->
-
-<!-- Maintainer: Enable Template repository in Settings → General → Template repository for "Use this template" to appear. -->
-
-<!-- QUICK START - REQUIRED SETUP & OPTIONAL AUTOMATIONS -->
-
-<div>
-  <h2>🚀 Quick Start</h2>
-
-  <h3>✅ Required Setup — ~5 minutes</h3>
-  <ol>
-    <li><strong>Use this template</strong> (recommended) — or <strong>Fork</strong> if you want to track upstream updates</li>
-    <li>Rename it to <strong>your GitHub username</strong> (Settings → Repository name)</li>
-    <li>Replace <code>USERNAME</code> with your GitHub username — <strong>global find-and-replace</strong></li>
-    <li>Replace <code>YOUR_NAME</code>, <code>YOUR_EMAIL</code>, <code>YOUR_TAGLINE</code></li>
-    <li>Customize the typing SVG, banner image, and social links</li>
-    <li><strong>Push to <code>main</code></strong></li>
-  </ol>
-
-  <h3>⚙️ Optional Automations</h3>
-  <p>Enable these after your profile is live:</p>
-  <ul>
-    <li>Set <strong>Actions permissions</strong> to <em>Read and write</em> (Settings → Actions → General → Workflow permissions)</li>
-    <li>Run workflows manually from the <strong>Actions</strong> tab — snake animation, activity feed, icon check</li>
-  </ul>
-
-  <p><strong>📖 Guides:</strong> <a href="docs/CUSTOMIZE.en.md">English (detailed)</a> &#183; <a href="docs/CUSTOMIZE.md">Español</a></p>
-</div>
-
----
-
-### 📚 More Resources
-
-- <a href="docs/CUSTOMIZE.en.md"><strong>English Customization Guide</strong></a> — Step-by-step instructions for required setup and optional automations
-- <a href="docs/CUSTOMIZE.md"><strong>Guía en español</strong></a> — Instrucciones detalladas de personalización
-
----
-
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  HEADER: TYPING SVG + BANNER                                            ║
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-    <!--
-      BANNER IMAGE: Customize or replace assets/banner.png.
-      Recommended size: 1200×300px. Missing images show alt text only.
-    -->
-    <img src="assets/banner.png" alt="Profile banner — replace assets/banner.png with your own 1200x300 image" width="100%"/>
+    <img src="assets/banner-ernesto.png" alt="Ernesto Guerra Labrada — Software Developer and Builder" width="100%"/>
     <br/>
   <a href="https://git.io/typing-svg">
-    <!--
-      TYPING SVG — customize the lines= parameter.
-      Use + for spaces, ; to separate lines. Example:
-      lines=Full-Stack+Developer+%F0%9F%9A%80;Second+Line+%F0%9F%92%A1
-    -->
-    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%A1;Always+Learning+and+Collaborating+%F0%9F%A4%9D" alt="Typing SVG — customize the text lines in the src URL" />
+    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%A1;Always+Learning+and+Collaborating+%F0%9F%A4%9D" alt="Typing SVG animation" />
   </a>
 </div>
 
@@ -71,41 +18,24 @@
 
 ## 👨‍💻 About Me
 
-<!--
-  Replace placeholders below:
-  YOUR_NAME    → Your full name
-  YOUR_EMAIL   → Your contact email
-  YOUR_TAGLINE → A short personal tagline
-
-  Add or remove bullet points as needed.
--->
-
-- 🤓 **Software Developer** — `YOUR_NAME`
-- 💬 Reach me at: **`YOUR_EMAIL`**
-- 🌱 **`YOUR_TAGLINE`**
+- 🤓 **Software Developer** — `Ernesto Guerra Labrada`
+- 💬 Reach me at: **`ernesg93@gmail.com`**
+- 🌱 **Building useful software and learning every day**
 - ⚡ Passionate about building tools that improve people's lives
 - 🤝 Always open to collaboration and new opportunities
 
 ## 🌎 Find Me
 
-<!--
-  SOCIAL LINKS — customize href values to your profiles.
-  Use shields.io format: https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=ICONNAME&logoColor=white
-  Icons: https://simpleicons.org
--->
-
 <div align="center">
-  <!-- SECURITY: target="_blank" links MUST include rel="noopener noreferrer" to prevent tabnabbing -->
   <a href="https://github.com/ernesg93" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/ernesg93" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:ernesg93@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- Add more badges: copy the <a> pattern above, update href/label/color/logo -->
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -113,8 +43,6 @@
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 ## 🚀 Technologies & Tools
-
-<!-- Icons: https://cdn.simpleicons.org/ICONNAME/white — get slugs from https://simpleicons.org -->
 
 <div align="center">
   <table>
@@ -173,12 +101,10 @@
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
-     ║  GITHUB STATISTICS — ernesg93-PARAMETERIZED                              ║
+     ║  GITHUB STATISTICS                                                       ║
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub Statistics
-
-<!-- All stats URLs use USERNAME — replace with your GitHub username. Change theme= to your preferred theme. -->
 
 <div align="center">
   <table border="none" align="center">
@@ -205,11 +131,6 @@
 
 ## 🏆 Achievements & Trophies
 
-<!-- Trophy service (github-profile-trophy.vercel.app) is an optional third-party
-     widget — may be rate-limited or unavailable. If it doesn't load, remove this
-     section, self-host the service (github.com/ryo-ma/github-profile-trophy), or
-     replace with a different achievement display. -->
-
 <div align="center">
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ernesg93&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
@@ -220,101 +141,19 @@
 
 ## ⚡ Recent Activity
 
-<!-- Activity section auto-populated by update-activity.yml — do NOT edit START/END markers -->
-
 <!--START_SECTION:activity-->
 
 <!-- Recent GitHub activity will appear here after the first workflow run -->
 
 <!--END_SECTION:activity-->
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗
-     ║  PROJECT SHOWCASE — EDITABLE EXAMPLE SECTIONS                           ║
-     ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-<!--
-  PROJECT SECTIONS: Two example 2×2 grids below. To add a card, paste inside a <td>:
-    <a href="https://github.com/ernesg93/REPO-NAME">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=REPO-NAME&theme=tokyonight" alt="REPO-NAME" />
-    </a>
-  Replace USERNAME, REPO-NAME, and alt text.
-
-  To add a section, copy from "## ..." to </table>, paste before "📈 Profile Views".
--->
-
-<!-- PROJECTS: Featured Projects -->
-
 ## 💡 Featured Projects
 
-> [!NOTE]
-> Showcase your best work here. Add, remove, or reorder cards as needed.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ernesg93/example-repo-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-1&theme=tokyonight" alt="Example Repo 1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ernesg93/example-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-2&theme=tokyonight" alt="Example Repo 2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ernesg93/example-repo-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-3&theme=tokyonight" alt="Example Repo 3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ernesg93/example-repo-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-4&theme=tokyonight" alt="Example Repo 4" />
-        </a>
-      </td>
-    </tr>
-    <!-- Add rows: copy a <tr> block above, replace USERNAME and REPO-NAME -->
-  </table>
-</div>
-
-<!-- PROJECTS: Developer Tools -->
+> Coming soon — selected projects will be added here.
 
 ## 🛠️ Developer Tools
 
-> [!NOTE]
-> Share tools, utilities, or libraries you've built for other developers.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ernesg93/tool-repo-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-1&theme=tokyonight" alt="Tool Repo 1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ernesg93/tool-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-2&theme=tokyonight" alt="Tool Repo 2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ernesg93/tool-repo-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-3&theme=tokyonight" alt="Tool Repo 3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ernesg93/tool-repo-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-4&theme=tokyonight" alt="Tool Repo 4" />
-        </a>
-      </td>
-    </tr>
-    <!-- Add sections: copy a "## Name" through </table> block, paste above footer, update content -->
-  </table>
-</div>
+> Coming soon — developer tools and utilities will be added here.
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  PROFILE VIEWS + SNAKE + FOOTER                                         ║
@@ -322,38 +161,13 @@
 
 ## 📈 Profile Views
 
-<!-- Profile counter (komarev.com) is an optional third-party widget — it may
-     be unavailable or rate-limited. To start from an existing count, append
-     &base=N to the URL (e.g., https://komarev.com/ghpvc/?username=ernesg93&base=100).
-     Remove this section entirely if you don't need a visitor counter. -->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ernesg93" alt="Profile Views Counter">
 </div>
 
 <br clear="both">
 
-<!--
-  Snake animation generated by generate-snake.yml (Platane/snk).
-  Updates on push to main and on schedule.
-
-  The URL below contains USERNAME as a template placeholder. After creating your copy,
-  replace USERNAME with your GitHub username and run the generate-snake.yml
-  workflow. The snake SVG will appear after the first successful run.
--->
-
 <img width="100%" src="https://raw.githubusercontent.com/ernesg93/ernesg93/output/snake.svg" alt="Snake animation" />
-
-<!-- ╔═══════════════════════════════════════════════════════════════════════════╗
-     ║  LICENSE                                                                 ║
-     ╚═══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 📄 License
-
-This template is distributed under the **MIT License**.
-See the [LICENSE](LICENSE) file for full terms.
-
-Copyright &copy; 2026 DERIVA.
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  FOOTER — WAVE CAPSULE + ATTRIBUTION                                    ║
