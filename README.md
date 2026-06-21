@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-<!-- Recent GitHub activity will appear here after the first workflow run -->
+1. 💪 Opened PR [#2](https://github.com/EduardoProfe666/EduardoProfe666/pull/2) in [EduardoProfe666/EduardoProfe666](https://github.com/EduardoProfe666/EduardoProfe666)
 
 <!--END_SECTION:activity-->
 
