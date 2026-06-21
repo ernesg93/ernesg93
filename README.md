@@ -211,7 +211,7 @@
      replace with a different achievement display. -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ernesg93&theme=tokyonight&margin-w=3" alt="Trophies">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ernesg93&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
