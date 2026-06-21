@@ -110,20 +110,20 @@
   <table border="none" align="center">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ernesg93&locale=es&bg_color=07131f&title_color=00e5ff&text_color=e8f8ff&icon_color=4cff9a&border_color=00e5ff&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ernesg93&bg_color=07131f&title_color=00e5ff&text_color=e8f8ff&icon_color=4cff9a&border_color=00e5ff&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernesg93&locale=es&mode=weekly&background=07131f&border=00e5ff&stroke=00e5ff&ring=4cff9a&fire=00e5ff&currStreakNum=e8f8ff&sideNums=e8f8ff&currStreakLabel=4cff9a&sideLabels=00e5ff&dates=38bdae&hide_border=false" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernesg93&mode=weekly&background=07131f&border=00e5ff&stroke=00e5ff&ring=4cff9a&fire=00e5ff&currStreakNum=e8f8ff&sideNums=e8f8ff&currStreakLabel=4cff9a&sideLabels=00e5ff&dates=38bdae&hide_border=false" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesg93&locale=es&bg_color=07131f&title_color=00e5ff&text_color=e8f8ff&icon_color=4cff9a&border_color=00e5ff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesg93&bg_color=07131f&title_color=00e5ff&text_color=e8f8ff&icon_color=4cff9a&border_color=00e5ff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ernesg93&locale=es&theme=github_dark" alt="Profile Summary" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ernesg93&theme=github_dark" alt="Profile Summary" />
       </td>
     </tr>
   </table>
