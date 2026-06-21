@@ -174,8 +174,7 @@
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center" width="100%">
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text==Ernesto%20Guerra%20Labrada&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer Wave"/>
-     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:07131f,50:00e5ff,100:4cff9a§ion=footer&reversal=true" alt="Footer Wave"/>
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Ernesto%20Guerra%20Labrada&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer Wave"/>
 </div>
 
 <!--
