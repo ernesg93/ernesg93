@@ -96,10 +96,10 @@
 
 <div align="center">
   <!-- SECURITY: target="_blank" links MUST include rel="noopener noreferrer" to prevent tabnabbing -->
-  <a href="https://github.com/USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/ernesg93" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ernesg93" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:YOUR_EMAIL" target="_blank" rel="noopener noreferrer">
@@ -173,7 +173,7 @@
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
-     ║  GITHUB STATISTICS — USERNAME-PARAMETERIZED                              ║
+     ║  GITHUB STATISTICS — ernesg93-PARAMETERIZED                              ║
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 GitHub Statistics
@@ -184,20 +184,20 @@
   <table border="none" align="center">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ernesg93&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ernesg93&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesg93&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" alt="Profile Summary" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ernesg93&theme=tokyonight" alt="Profile Summary" />
       </td>
     </tr>
   </table>
@@ -211,7 +211,7 @@
      replace with a different achievement display. -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&margin-w=3" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ernesg93&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
@@ -234,8 +234,8 @@
 
 <!--
   PROJECT SECTIONS: Two example 2×2 grids below. To add a card, paste inside a <td>:
-    <a href="https://github.com/USERNAME/REPO-NAME">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-NAME&theme=tokyonight" alt="REPO-NAME" />
+    <a href="https://github.com/ernesg93/REPO-NAME">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=REPO-NAME&theme=tokyonight" alt="REPO-NAME" />
     </a>
   Replace USERNAME, REPO-NAME, and alt text.
 
@@ -253,25 +253,25 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/USERNAME/example-repo-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=example-repo-1&theme=tokyonight" alt="Example Repo 1" />
+        <a href="https://github.com/ernesg93/example-repo-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-1&theme=tokyonight" alt="Example Repo 1" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/USERNAME/example-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=example-repo-2&theme=tokyonight" alt="Example Repo 2" />
+        <a href="https://github.com/ernesg93/example-repo-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-2&theme=tokyonight" alt="Example Repo 2" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/USERNAME/example-repo-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=example-repo-3&theme=tokyonight" alt="Example Repo 3" />
+        <a href="https://github.com/ernesg93/example-repo-3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-3&theme=tokyonight" alt="Example Repo 3" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/USERNAME/example-repo-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=example-repo-4&theme=tokyonight" alt="Example Repo 4" />
+        <a href="https://github.com/ernesg93/example-repo-4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=example-repo-4&theme=tokyonight" alt="Example Repo 4" />
         </a>
       </td>
     </tr>
@@ -290,25 +290,25 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/USERNAME/tool-repo-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=tool-repo-1&theme=tokyonight" alt="Tool Repo 1" />
+        <a href="https://github.com/ernesg93/tool-repo-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-1&theme=tokyonight" alt="Tool Repo 1" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/USERNAME/tool-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=tool-repo-2&theme=tokyonight" alt="Tool Repo 2" />
+        <a href="https://github.com/ernesg93/tool-repo-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-2&theme=tokyonight" alt="Tool Repo 2" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/USERNAME/tool-repo-3">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=tool-repo-3&theme=tokyonight" alt="Tool Repo 3" />
+        <a href="https://github.com/ernesg93/tool-repo-3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-3&theme=tokyonight" alt="Tool Repo 3" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/USERNAME/tool-repo-4">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=tool-repo-4&theme=tokyonight" alt="Tool Repo 4" />
+        <a href="https://github.com/ernesg93/tool-repo-4">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ernesg93&repo=tool-repo-4&theme=tokyonight" alt="Tool Repo 4" />
         </a>
       </td>
     </tr>
@@ -324,11 +324,11 @@
 
 <!-- Profile counter (komarev.com) is an optional third-party widget — it may
      be unavailable or rate-limited. To start from an existing count, append
-     &base=N to the URL (e.g., https://komarev.com/ghpvc/?username=USERNAME&base=100).
+     &base=N to the URL (e.g., https://komarev.com/ghpvc/?username=ernesg93&base=100).
      Remove this section entirely if you don't need a visitor counter. -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=ernesg93" alt="Profile Views Counter">
 </div>
 
 <br clear="both">
@@ -342,7 +342,7 @@
   workflow. The snake SVG will appear after the first successful run.
 -->
 
-<img width="100%" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/ernesg93/ernesg93/output/snake.svg" alt="Snake animation" />
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  LICENSE                                                                 ║
@@ -360,7 +360,7 @@ Copyright &copy; 2026 DERIVA.
      ╚═══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center" width="100%">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=USERNAME%F0%9F%8E%A9&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer Wave"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=ernesg93%F0%9F%8E%A9&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer Wave"/>
 </div>
 
 <!--
