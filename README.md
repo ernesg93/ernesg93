@@ -44,6 +44,9 @@
 
 ## 🚀 Technologies & Tools
 
+> Coming soon — technologies & Tools will be added here.
+> 
+<!-- 
 <div align="center">
   <table>
     <tr>
@@ -99,6 +102,7 @@
     </tr>
   </table>
 </div>
+-->
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════╗
      ║  GITHUB STATISTICS                                                       ║
