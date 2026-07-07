@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/EduardoProfe666/EduardoProfe666/pull/2) in [EduardoProfe666/EduardoProfe666](https://github.com/EduardoProfe666/EduardoProfe666)
+1. 🔒 Closed issue [#3](https://github.com/ernesg93/NaldoPro/issues/3) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
 
 <!--END_SECTION:activity-->
 
