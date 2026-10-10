@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/ernesg93/NaldoPro/issues/3) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
+1. ℹ️ Labeled PR [#2](https://github.com/ernesg93/CYNDY-app/pull/2) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 
 <!--END_SECTION:activity-->
 
