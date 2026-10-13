@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#13](https://github.com/ernesg93/CYNDY-app/issues/13) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+1. 🎉 Merged PR [#16](https://github.com/ernesg93/CYNDY-app/pull/16) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 
 <!--END_SECTION:activity-->
 
