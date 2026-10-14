@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#18](https://github.com/ernesg93/CYNDY-app/pull/18) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+1. ℹ️ Labeled PR [#22](https://github.com/ernesg93/CYNDY-app/pull/22) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 
 <!--END_SECTION:activity-->
 
