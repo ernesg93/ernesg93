@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#47](https://github.com/ernesg93/CYNDY-app/pull/47) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+1. 🎉 Merged PR [#49](https://github.com/ernesg93/CYNDY-app/pull/49) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 
 <!--END_SECTION:activity-->
 
