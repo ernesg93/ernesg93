@@ -147,7 +147,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#56](https://github.com/ernesg93/CYNDY-app/pull/56#issuecomment-6664758984) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+1. 🎉 Merged PR [#66](https://github.com/ernesg93/CYNDY-app/pull/66) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 
 <!--END_SECTION:activity-->
 
